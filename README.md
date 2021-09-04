@@ -1,5 +1,8 @@
 ### 개편중입니다....🙌🙌
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsg3121&count_private=true)
+
 <img src="https://img.shields.io/badge/HTML-red?style=flat-square&logo=HTML5&logoColor=white"/> 
 
 
