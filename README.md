@@ -11,14 +11,6 @@
 
 ----
 
-## ✨ Activity 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsg3121&theme=onedark&count_private=true&hide=stars@layout=default&show_icons=true) 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsg3121&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
 ## 🎈Use Language & Tools
 
 * ### Advanced  Technician 🥇
@@ -44,4 +36,13 @@
 * ### Beginner  Technician 🥉
 
   * <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/MySql-informational?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/><img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/><img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+
+
+## ✨ Activity 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsg3121&theme=onedark&count_private=true&hide=stars@layout=default&show_icons=true) 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsg3121&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
 
