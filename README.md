@@ -6,7 +6,7 @@
 * 🧑 Name :  장선규 (Jang Sun Gyu)
 * 📧 E-mail : <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> xodm95@gmail.com 
 * 📗Blog : <img src="https://img.shields.io/badge/Velog-green?style=flat-square&logo=/e/&logoColor=white"/> https://velog.io/@jsg3121
-
+* 🙋‍♂️Portfolio : <img src="https://img.shields.io/badge/About_me-000f2a?style=flat-square&logo=/e/&logoColor=white"/> http://sungyujang.com/#/
 * 👮‍♂️Military service : Auxiliary Police Compleat ✔
 
 ----
