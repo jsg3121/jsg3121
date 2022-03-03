@@ -40,6 +40,7 @@
 
 
 ## ✨ Activity 
+ [![wakatime](https://wakatime.com/badge/user/599f952a-8d36-4b00-803d-dc71a8bc87a1.svg)](https://wakatime.com/@599f952a-8d36-4b00-803d-dc71a8bc87a1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsg3121&theme=onedark&count_private=true&hide=stars@layout=default&show_icons=true) 
 
