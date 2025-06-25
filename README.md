@@ -25,8 +25,6 @@
 * ### Intermediate Technician  🥈
 
   * <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/>
-  * <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <br/>
-    <blockquote/> <img src="https://img.shields.io/badge/Vuex-green?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
   * <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> <br/>
     <blockquote/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX_JS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   * <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/> <br/>
